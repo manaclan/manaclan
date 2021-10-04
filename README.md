@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @manaclan
-- 👀 I’m interested in AI, Web (Frontend, Backend), Game
-- 🌱 I’m currently learning to learn :D
+- 👋 Hi, I’m Vinh call me Vin
+- 👀 I’m interested in AI
 - 💞️ I’m looking to collaborate on AI 
 - 📫 How to reach me : lucianvinh@gmail.com
 
